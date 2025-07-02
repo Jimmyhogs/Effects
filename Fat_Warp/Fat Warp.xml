@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfxPreset plugin="de.magix:MeshWarp" context="Filter" name="Fat Warp">
+<OfxPlugin>de.magix:MeshWarp</OfxPlugin>
+<OfxPluginVersion>1 0</OfxPluginVersion>
+<OfxParamTypeCustom name="WarpData">        <OfxParamValue>BQAAAAUAAAAZAAAAAAAAAAAAAAAAAAAAAACAPgAAAAAAAAA/AAAAAAAAQD8AAAAAAACAPwAAAAAAAAAAAACAPgAAAAAADEM7AAAAPwAAgD45kn8/AAxDOwAAgD8AAIA+AAAAAAAAAD8AAIA+AAAAP2z0rj7cti0/AABAPwAAAD8AAIA/AAAAPwAAAAAAAEA/AAAAAPQ8fz8Yqy0/kiQJPzmSfz8AAIA/AACAPwAAQD8AAAAAAACAPwAAgD4AAIA/AAAAPwAAgD8AAEA/AACAPwAAgD8AAIA/</OfxParamValue>
+</OfxParamTypeCustom>
+<OfxParamTypeInteger name="ForceReload"><OfxParamValue>0</OfxParamValue></OfxParamTypeInteger>
+<OfxParamTypeChoice name="WarpDirection"><OfxParamValue>1</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeInteger name="GridCountX"><OfxParamValue>4</OfxParamValue></OfxParamTypeInteger>
+<OfxParamTypeInteger name="GridCountY"><OfxParamValue>4</OfxParamValue></OfxParamTypeInteger>
+<OfxParamTypeBoolean name="GridCountLink"><OfxParamValue>true</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeDouble name="StickyGridPoints"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="FixedBorderPoints"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+</OfxPreset>
