@@ -4,5 +4,5 @@ Both of these methods only work inside of VEGAS Pro 17 or newer! ( since the eff
   
 Place Inside of %UserProfile%\Documents\OFX Presets\de.magix_MeshWarp\Filter ( make a new folder if it doesn't exist )
 
-or you can import the .sfpreset inside of Preset Manager ( https://jimmyhogs.com/programs/preset_manager/ )
+or you can import the .sfpreset inside of Preset Manager ( https://github.com/Jimmyhogs/Programs/tree/main/preset_manager )
 
