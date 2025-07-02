@@ -1,6 +1,5 @@
 Video referenced: https://youtu.be/4cOjoHp1Mik
 
-
 Gradient Map: (0-0-0-0)
 
 R: 186 G: 210 B: 255 A: 255
