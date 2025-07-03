@@ -1,6 +1,6 @@
 Video Referenced: https://youtu.be/GAXITnjXEXM 
 
-Gradient Map (0-0-0-0-0):
+Gradient Map: (0-0-0-0-0)
 
 R: 77 G: 62 B: 77 A: 255
 
