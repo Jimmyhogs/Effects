@@ -18,7 +18,7 @@ Strength: 50
 Drift: 0
 Crop: 0
 
-Gradient Map - https://jimmyhogs.com/effects/index.php?path=Spangled_X
+Gradient Map - https://github.com/Jimmyhogs/Effects/tree/main/Spangled_X
 
 HSL Adjust Add to hue: 0 (Linear) -> 1.000
 
