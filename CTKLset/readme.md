@@ -5,7 +5,7 @@ Gradient Map: [Same as sunset layout]
 
 (0-----------------0---------0-----------0)
 
-R: 0 G: 0 B: 0 A: 0
+R: 0 G: 0 B: 0 A: 66
 
 R: 0 G: 255 B: 0 A: 255
 
